@@ -1,5 +1,4 @@
- [![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)]
-<h1 align="center">Hi 👋, I'm Eray Sahin</h1>
+ <h1 align="center">Hi 👋, I'm Eray Sahin</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erayysahin&label=Profile%20views&color=0e75b6&style=flat" alt="erayysahin" /> </p>
@@ -25,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erayysahin&show_icons=true&locale=en" alt="erayysahin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erayysahin&" alt="erayysahin" /></p>
+
+![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
