@@ -1,4 +1,4 @@
- [![MasterHead](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)]
+ [![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)]
 <h1 align="center">Hi 👋, I'm Eray Sahin</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
