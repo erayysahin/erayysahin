@@ -43,7 +43,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erayysahin&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erayysahin&theme=material-palenight&hide_border=false" alt="GitHub Streak" />
+  <img height="160" width="182" src="https://raw.githubusercontent.com/erayysahin/erayysahin/5da4503f94509344e2fd87d4f8bcc801c4d8fec6/ErayySahin-main/img/Bird%20Wing%20Left.png" alt="Wing left" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erayysahin&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img height="160" width="182" src="https://raw.githubusercontent.com/erayysahin/erayysahin/5da4503f94509344e2fd87d4f8bcc801c4d8fec6/ErayySahin-main/img/Bird%20Wing%20Right.png" alt="Wing right" />
+</p>
+<p align="center">
+  <img height="160" width="182" src="https://raw.githubusercontent.com/erayysahin/erayysahin/5da4503f94509344e2fd87d4f8bcc801c4d8fec6/ErayySahin-main/img/Bird%20Wing%20Bottom%20Left.png" alt="Wing bottom left" />
+  <img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=erayysahin&theme=material-palenight&hide_border=false" alt="GitHub Streak" />
+  <img height="160" width="182" src="https://raw.githubusercontent.com/erayysahin/erayysahin/5da4503f94509344e2fd87d4f8bcc801c4d8fec6/ErayySahin-main/img/Bird%20Wing%20Bottom%20Right.png" alt="Wing bottom right" />
 </p>
